@@ -1,0 +1,44 @@
+html {
+height: 100%;
+}
+
+body {
+background-color: lightblue;
+min-height: 100%;
+}
+
+
+
+/*Research Paper Toolbox*/
+h1 {
+font-family: Helvetica, sans-serif;
+font-size: 300%;
+padding-left: 450px;
+}
+
+/*Three paragraphs of text*/
+p {
+font-family: Helvetica, sans-serif;
+font-size: 125%;
+
+padding-left:400px;
+padding-right:400px;
+}
+
+/*Bullet Pointed List*/
+ul {
+margin-top: auto;
+
+border: 1px solid black;
+
+background: #E1EBEE;
+color: #034694;
+margin:50px;
+margin-left: 400px;
+margin-right: 400px;
+ text-align: center;
+
+font-family: Helvetica, sans-serif;
+font-size: 120%;
+padding-left:auto;
+}

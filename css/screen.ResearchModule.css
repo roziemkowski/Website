@@ -1,0 +1,108 @@
+html {
+height: 100%;
+}
+
+body {
+background-color: #E1EBEE;
+min-height: 100%;
+}
+
+
+
+/*How to organize and analyze research data*/
+h1 {
+font-family: Helvetica, sans-serif;
+font-size: 300%;
+padding-left: 15px;
+}
+
+/*paragraphs*/
+p {
+font-family: Helvetica, sans-serif;
+font-size: 125%;
+
+padding-left:400px;
+padding-right:400px;
+}
+
+/*Bullet Pointed List*/
+ul {
+font-family: Helvetica, sans-serif;
+font-size: 120%;
+padding-left:450px;
+padding-right:400px;
+}
+
+/*Ordered List*/
+ol {
+font-family: Helvetica, sans-serif;
+font-size: 120%;
+padding-left:450px;
+padding-right:400px;
+}
+
+/*Format data for analysis*/
+h2 {
+font-family: Helvetica, sans-serif;
+font-size: 225%;
+margin-top: 70px;
+padding-left: 250px;
+}
+
+h3 {
+font-family: Helvetica, sans-serif;
+font-size: 150%;
+padding-left: 300px;
+}
+
+
+/* Image styles */
+img {
+display: block;
+margin-top: 20px;
+margin-right: auto;
+margin-left: auto;
+padding: 10px;
+border: dashed 3px grey;
+}
+
+section#styling {
+display: none;
+}
+
+
+blockquote {
+margin: 10px 45px 10px 45px;
+padding: 2px;
+background-color: #72A0C1;
+color: white;
+}
+
+
+
+
+/* side bars */
+aside {
+position: absolute;
+padding-left: 800px;
+width: 68%;
+}
+
+p {
+    font-family: 'Helvetica', sans-serif;
+}
+/* end of side bars */
+
+
+
+/*Double list*/
+
+.first {
+ list-style-type: circle;
+}
+.second {
+ list-style-type: circle;
+width:68%;
+ margin-left: -17em;
+font-size: 99%;
+}
