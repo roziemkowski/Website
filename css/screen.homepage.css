@@ -11,14 +11,14 @@ min-height: 100%;
 
 /*Research Paper Toolbox*/
 h1 {
-font-family: Helvetica, sans-serif;
+font-family: Ink Free, sans-serif;
 font-size: 300%;
 padding-left: 450px;
 }
 
 /*Three paragraphs of text*/
 p {
-font-family: Helvetica, sans-serif;
+font-family: Georgia, sans-serif;
 font-size: 125%;
 
 padding-left:400px;
@@ -38,7 +38,7 @@ margin-left: 400px;
 margin-right: 400px;
  text-align: center;
 
-font-family: Helvetica, sans-serif;
+font-family: Georgia, sans-serif;
 font-size: 120%;
 padding-left:auto;
 }
