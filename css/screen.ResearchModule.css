@@ -13,7 +13,7 @@ min-height: 100%;
 h1 {
 font-family: Ink Free, sans-serif;
 font-size: 300%;
-padding-left: 15px;
+padding-left: 30px;
 }
 
 /*paragraphs*/
@@ -84,8 +84,8 @@ color: white;
 /* side bars */
 aside {
 position: absolute;
-padding-left: 800px;
-width: 68%;
+padding-left: 1100px;
+width: 60%;
 }
 
 p {
