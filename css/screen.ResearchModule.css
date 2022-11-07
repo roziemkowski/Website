@@ -11,14 +11,14 @@ min-height: 100%;
 
 /*How to organize and analyze research data*/
 h1 {
-font-family: Helvetica, sans-serif;
+font-family: Ink Free, sans-serif;
 font-size: 300%;
 padding-left: 15px;
 }
 
 /*paragraphs*/
 p {
-font-family: Helvetica, sans-serif;
+font-family: Georgia, sans-serif;
 font-size: 125%;
 
 padding-left:400px;
@@ -27,7 +27,7 @@ padding-right:400px;
 
 /*Bullet Pointed List*/
 ul {
-font-family: Helvetica, sans-serif;
+font-family: Georgia, sans-serif;
 font-size: 120%;
 padding-left:450px;
 padding-right:400px;
@@ -35,7 +35,7 @@ padding-right:400px;
 
 /*Ordered List*/
 ol {
-font-family: Helvetica, sans-serif;
+font-family: Georgia, sans-serif;
 font-size: 120%;
 padding-left:450px;
 padding-right:400px;
@@ -43,14 +43,14 @@ padding-right:400px;
 
 /*Format data for analysis*/
 h2 {
-font-family: Helvetica, sans-serif;
+font-family: Ink Free, sans-serif;
 font-size: 225%;
 margin-top: 70px;
 padding-left: 250px;
 }
 
 h3 {
-font-family: Helvetica, sans-serif;
+font-family: Ink Free, sans-serif;
 font-size: 150%;
 padding-left: 300px;
 }
@@ -89,7 +89,7 @@ width: 68%;
 }
 
 p {
-    font-family: 'Helvetica', sans-serif;
+    font-family: 'Georgia', sans-serif;
 }
 /* end of side bars */
 
